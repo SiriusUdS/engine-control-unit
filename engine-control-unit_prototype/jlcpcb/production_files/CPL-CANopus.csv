@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BZ1,Buzzer_TDK_PS1240,Buzzer_TDK_PS1240P02BT_D12.2mmP5mm,66.730931,-45.825,0.0,top
+C34,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,67.1375,-73.5,0.0,top
+C35,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,67.1375,-76.01,0.0,top
+C36,0.47uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,67.1375,-78.52,0.0,top
+C38,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,67.1375,-81.03,0.0,top
+C39,10uF/50V,CP_Elec_4x5.4,77.4725,-41.875,0.0,top
+D1,D,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,75.8175,-46.095,0.0,top
+D2,6.4V,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,75.8175,-48.685,0.0,top
+D3,6.4V,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,76.875,-86.5,0.0,top
+F1,Polyfuse,Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder,67.1375,-83.54,0.0,top
+J1,Micro_SD_Card_Det1,GCT_MEM2075-00-140-01-A,169.475,-79.83,0.0,top
+J17,USB_C_Receptacle_USB2.0_man,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,73.0,-96.36,0.0,top
+J2,Micro_SD_Card_Det1,GCT_MEM2075-00-140-01-A,190.475,-79.83,0.0,top
+R27,5.1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,67.1375,-86.05,0.0,top
+R28,5.1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,67.1375,-88.56,0.0,top
+U1,SST25VF080B-50-4x-S2Ax,SOIC-8_5.3x5.3mm_P1.27mm,43.0,-62.0,0.0,top
+U2,STM32H747IITx,LQFP-176_24x24mm_P0.5mm,135.325,-102.75,0.0,top
+U9,USBLC6-2SC6,SOT-23-6,73.8625,-62.05,0.0,top
