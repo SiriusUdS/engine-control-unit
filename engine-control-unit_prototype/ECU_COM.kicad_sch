@@ -1499,7 +1499,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ff7544d-5818-41f2-9079-b4cd7c0b9bd4")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR074"
 			(at 69.85 41.91 0)
 			(effects
 				(font
@@ -1549,7 +1549,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "#PWR059")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -1564,7 +1564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12fc3de4-1075-404a-8b76-25026435d03e")
-		(property "Reference" "R2"
+		(property "Reference" "R13"
 			(at 46.99 62.23 90)
 			(effects
 				(font
@@ -1625,7 +1625,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "R2")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -1641,7 +1641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bfc303c-55ca-470c-93e8-2da5c13c08fa")
-		(property "Reference" "U3"
+		(property "Reference" "U5"
 			(at 71.9933 40.64 0)
 			(effects
 				(font
@@ -1714,7 +1714,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "U3")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -1730,7 +1730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "346a99cc-45f3-4163-87fb-9f30b5aade6a")
-		(property "Reference" "J2"
+		(property "Reference" "J8"
 			(at 161.29 66.0399 0)
 			(effects
 				(font
@@ -1808,7 +1808,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "J2")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -1823,7 +1823,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3bb8801a-25af-4d91-be5c-c36cc9fe91ec")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR075"
 			(at 86.36 52.07 0)
 			(effects
 				(font
@@ -1874,7 +1874,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "#PWR058")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -1890,7 +1890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a19400e-6747-4842-9fa8-1d2d1ae4f733")
-		(property "Reference" "C44"
+		(property "Reference" "C46"
 			(at 90.17 40.6399 0)
 			(effects
 				(font
@@ -1944,7 +1944,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "C44")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -1959,7 +1959,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f1ee098-fe76-4ede-876c-ad4f03c5bc31")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR078"
 			(at 148.59 95.25 0)
 			(effects
 				(font
@@ -2010,7 +2010,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "#PWR057")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -2025,7 +2025,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a49a8d85-d2a1-4ffd-811a-ad6cdaf7c2a6")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR076"
 			(at 69.85 69.85 0)
 			(effects
 				(font
@@ -2076,7 +2076,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "#PWR054")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -2091,7 +2091,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be5cd100-68b9-4744-bf49-3c61cb0f9fa8")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR077"
 			(at 49.53 72.39 0)
 			(effects
 				(font
@@ -2142,7 +2142,7 @@
 		(instances
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/2469e973-1fee-44cf-8019-cdd458641741"
-					(reference "#PWR060")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
