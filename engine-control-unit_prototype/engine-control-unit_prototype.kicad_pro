@@ -615,24 +615,8 @@
       "Root"
     ],
     [
-      "78c2e20f-33c6-4600-8de2-e26d02529ada",
-      "ECU_Analog"
-    ],
-    [
-      "2469e973-1fee-44cf-8019-cdd458641741",
-      "ECU_Communication"
-    ],
-    [
-      "2c39881f-e974-4e8b-94bc-7260cf2dd295",
-      "ECU_eMMC"
-    ],
-    [
       "12b291ff-0d2b-42fb-bf77-b3f4f9ffc6e5",
       "ECU_Power"
-    ],
-    [
-      "d14df098-9302-4404-b80c-455cc1df9440",
-      "ECU_SMPS"
     ]
   ],
   "text_variables": {}
