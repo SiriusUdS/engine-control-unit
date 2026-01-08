@@ -613,10 +613,6 @@
     [
       "4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
       "Root"
-    ],
-    [
-      "12b291ff-0d2b-42fb-bf77-b3f4f9ffc6e5",
-      "ECU_Power"
     ]
   ],
   "text_variables": {}
