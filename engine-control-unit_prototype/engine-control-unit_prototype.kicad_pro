@@ -226,7 +226,68 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|1181100|2311400|373ac4cd-820e-43fa-b9ae-9023b5ce236a|aed43327-b722-4c2d-b53f-416eaafd2bd9|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2336800|aed43327-b722-4c2d-b53f-416eaafd2bd9|0a850190-cb3d-4cf3-93e5-aba6369fee09|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2362200|0a850190-cb3d-4cf3-93e5-aba6369fee09|068ba732-4675-46fa-a3b2-8813f2b1f532|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2387600|068ba732-4675-46fa-a3b2-8813f2b1f532|4ac7f21d-75ea-4f07-a98f-1f4e3c570a10|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2413000|4ac7f21d-75ea-4f07-a98f-1f4e3c570a10|46685306-b774-4184-82fe-d9107965e4be|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2438400|46685306-b774-4184-82fe-d9107965e4be|d5452252-ae1e-4258-a4a1-c45b0244b758|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2501900|90c84645-1ec9-43a8-a67f-d0e8e085e2de|d5452252-ae1e-4258-a4a1-c45b0244b758|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2527300|d5452252-ae1e-4258-a4a1-c45b0244b758|cd8bbae8-c370-48d9-9726-ea71e5df36ed|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2552700|cd8bbae8-c370-48d9-9726-ea71e5df36ed|9dab074f-274e-496f-bdba-bd875cdb1fbb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|1181100|2578100|9dab074f-274e-496f-bdba-bd875cdb1fbb|006851a3-8b6c-42be-93c8-3ac92fb3c72d|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|927100|1168400|c6474596-a14b-4e21-8409-22108950d0e1|2d889c9d-4387-4130-bdc0-79a678cc4088|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "pin_to_pin|927100|1193800|2d889c9d-4387-4130-bdc0-79a678cc4088|cf44c18e-6aea-42a7-a845-4d90aca2a887|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2387600|2946400|5e93672b-f1c6-4492-9448-169cdce0586b|00000000-0000-0000-0000-000000000000|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2400300|2209800|3a18d734-0589-449b-87d9-d07a363e1aba|00000000-0000-0000-0000-000000000000|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|952500|5130800|acd11f4a-f24d-4813-8049-7acdacb05066|00000000-0000-0000-0000-000000000000|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|/4da294f1-7505-49eb-91fe-5b5cfad6e8fb|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -613,6 +674,22 @@
     [
       "4da294f1-7505-49eb-91fe-5b5cfad6e8fb",
       "Root"
+    ],
+    [
+      "fe5b18a1-3da3-4d62-9122-6de166277dbb",
+      "POWER"
+    ],
+    [
+      "468ec968-b06a-4fdd-9cf0-6f2c416e1eba",
+      "COMMUNICATION"
+    ],
+    [
+      "3bb69677-03d8-4e4a-9419-fbdea1d6cb8d",
+      "STORAGE"
+    ],
+    [
+      "934d114b-d4b5-4669-b5e9-a82bebed1d7a",
+      "ADC"
     ]
   ],
   "text_variables": {}
