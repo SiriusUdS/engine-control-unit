@@ -11487,7 +11487,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 158.75) (xy 194.31 158.75)
+			(xy 196.85 158.75) (xy 194.31 158.75)
 		)
 		(stroke
 			(width 0)
@@ -13177,7 +13177,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 158.75) (xy 217.17 158.75)
+			(xy 219.71 158.75) (xy 217.17 158.75)
 		)
 		(stroke
 			(width 0)
@@ -14907,7 +14907,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 161.29) (xy 217.17 161.29)
+			(xy 219.71 161.29) (xy 217.17 161.29)
 		)
 		(stroke
 			(width 0)
@@ -15557,7 +15557,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 161.29) (xy 194.31 161.29)
+			(xy 196.85 161.29) (xy 194.31 161.29)
 		)
 		(stroke
 			(width 0)
@@ -16885,16 +16885,6 @@
 		)
 		(uuid "fff5c334-d7a4-4c5d-aaa8-32d07a550ff2")
 	)
-	(label "CANL"
-		(at 199.39 161.29 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0102ba2c-96bc-45f7-a85c-70e7745bd5b2")
-	)
 	(label "eMMC_DAT1"
 		(at 405.13 231.14 180)
 		(effects
@@ -17005,26 +16995,6 @@
 		)
 		(uuid "4fdb2873-b599-4e3a-be0e-473b8dea7c5e")
 	)
-	(label "CANH"
-		(at 199.39 158.75 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4fefc702-6794-4eaf-8e92-c552412dc7d8")
-	)
-	(label "CANL"
-		(at 222.25 161.29 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5540f401-688e-4a17-bdfb-215db4cf26b0")
-	)
 	(label "NRST"
 		(at 57.15 86.36 0)
 		(effects
@@ -17034,16 +17004,6 @@
 			(justify left bottom)
 		)
 		(uuid "575b877c-55cb-4672-9dae-a199934b9ad3")
-	)
-	(label "CANH"
-		(at 222.25 158.75 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "79295658-1d4d-4778-84ab-bd29cfd5bc28")
 	)
 	(label "LSE1"
 		(at 48.26 27.94 180)
@@ -17224,6 +17184,94 @@
 			(justify left bottom)
 		)
 		(uuid "fea2ba48-d68d-45ed-97ca-e7cd225a8834")
+	)
+	(global_label "CANL"
+		(shape input)
+		(at 219.71 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b0264db-ba12-48b6-b022-cf67eaa2e3b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.4124 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CANH"
+		(shape input)
+		(at 219.71 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "62eeab1b-b88d-4fc1-bfd2-ca4e94922511")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.7148 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CANL"
+		(shape input)
+		(at 196.85 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6c17a42-2961-49c5-a195-7a037508e750")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.5524 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CANH"
+		(shape input)
+		(at 196.85 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb7c4b98-9b44-402a-898d-3ff180130da1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.8548 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")

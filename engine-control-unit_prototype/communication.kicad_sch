@@ -6049,7 +6049,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 118.11) (xy 237.49 120.65)
+			(xy 237.49 111.76) (xy 237.49 120.65)
 		)
 		(stroke
 			(width 0)
@@ -6429,16 +6429,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 118.11) (xy 227.33 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae79358b-ebe6-41e4-87b0-5f4d9061cf72")
-	)
-	(wire
-		(pts
 			(xy 26.67 53.34) (xy 58.42 53.34)
 		)
 		(stroke
@@ -6759,6 +6749,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 111.76) (xy 227.33 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e741632c-ebc7-43ca-8baf-28062180821e")
+	)
+	(wire
+		(pts
 			(xy 116.84 170.18) (xy 116.84 172.72)
 		)
 		(stroke
@@ -6936,6 +6936,50 @@
 			(justify right bottom)
 		)
 		(uuid "dc5f85fa-d572-476d-bd2c-b2fc48063dd7")
+	)
+	(global_label "CANH"
+		(shape input)
+		(at 237.49 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0acc43ef-3884-499e-9f3d-bef49d82e13a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 245.4948 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CANL"
+		(shape input)
+		(at 227.33 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c522768-e4d5-4340-b6b2-c7d07ad5bc3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.0324 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(hierarchical_label "TPS3V3_SCL"
 		(shape input)
@@ -10089,7 +10133,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 237.49 118.11 0)
+		(at 237.49 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10098,7 +10142,7 @@
 		(fields_autoplaced yes)
 		(uuid "8fd85fbd-a365-4a00-ba8b-4bd68b238300")
 		(property "Reference" "TP14"
-			(at 240.03 113.5379 0)
+			(at 240.03 107.1879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10107,7 +10151,7 @@
 			)
 		)
 		(property "Value" "CANH"
-			(at 240.03 116.0779 0)
+			(at 240.03 109.7279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10116,7 +10160,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 242.57 118.11 0)
+			(at 242.57 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10125,7 +10169,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 242.57 118.11 0)
+			(at 242.57 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10134,7 +10178,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 237.49 118.11 0)
+			(at 237.49 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10525,7 +10569,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 227.33 118.11 0)
+		(at 227.33 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10534,7 +10578,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1b5f02c-0cc1-4915-bff4-b95b7b610c4a")
 		(property "Reference" "TP15"
-			(at 229.87 113.5379 0)
+			(at 229.87 107.1879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10543,7 +10587,7 @@
 			)
 		)
 		(property "Value" "CANL"
-			(at 229.87 116.0779 0)
+			(at 229.87 109.7279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10552,7 +10596,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 232.41 118.11 0)
+			(at 232.41 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10561,7 +10605,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 232.41 118.11 0)
+			(at 232.41 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10570,7 +10614,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 227.33 118.11 0)
+			(at 227.33 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)

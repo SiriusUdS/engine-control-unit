@@ -3925,7 +3925,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc488")
 	)
 	(hierarchical_label "eMMC_DAT1"
 		(shape bidirectional)
@@ -3936,7 +3936,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc489")
 	)
 	(hierarchical_label "eMMC_DAT3"
 		(shape bidirectional)
@@ -3947,7 +3947,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc48a")
 	)
 	(hierarchical_label "eMMC_DAT0"
 		(shape bidirectional)
@@ -3958,7 +3958,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc48b")
 	)
 	(hierarchical_label "eMMC_DAT6"
 		(shape bidirectional)
@@ -3969,7 +3969,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc48c")
 	)
 	(hierarchical_label "eMMC_DAT4"
 		(shape bidirectional)
@@ -3980,7 +3980,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc48d")
 	)
 	(hierarchical_label "eMMC_RST"
 		(shape input)
@@ -3991,7 +3991,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc48e")
 	)
 	(hierarchical_label "eMMC_DAT7"
 		(shape bidirectional)
@@ -4002,7 +4002,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc48f")
 	)
 	(hierarchical_label "eMMC_DAT5"
 		(shape bidirectional)
@@ -4013,7 +4013,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc490")
 	)
 	(hierarchical_label "eMMC_CLK"
 		(shape input)
@@ -4024,7 +4024,7 @@
 			)
 			(justify right)
 		)
-		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc487")
+		(uuid "44f42416-ce57-45a0-a55c-dfa7bacbc491")
 	)
 	(hierarchical_label "SD_CMD"
 		(shape input)
@@ -4046,7 +4046,7 @@
 			)
 			(justify right)
 		)
-		(uuid "7b2beeae-0f6f-4cbf-9947-cc0446e43d39")
+		(uuid "7b2beeae-0f6f-4cbf-9947-cc0446e43d3a")
 	)
 	(hierarchical_label "SD_DAT1"
 		(shape bidirectional)
@@ -4068,7 +4068,7 @@
 			)
 			(justify right)
 		)
-		(uuid "7d09ab7d-b143-4c82-9ee1-24d826e2e354")
+		(uuid "7d09ab7d-b143-4c82-9ee1-24d826e2e355")
 	)
 	(hierarchical_label "SD_DAT3"
 		(shape bidirectional)
@@ -4079,7 +4079,7 @@
 			)
 			(justify right)
 		)
-		(uuid "7d09ab7d-b143-4c82-9ee1-24d826e2e354")
+		(uuid "7d09ab7d-b143-4c82-9ee1-24d826e2e356")
 	)
 	(hierarchical_label "SD_DAT2"
 		(shape bidirectional)
@@ -4090,7 +4090,7 @@
 			)
 			(justify right)
 		)
-		(uuid "7d09ab7d-b143-4c82-9ee1-24d826e2e354")
+		(uuid "7d09ab7d-b143-4c82-9ee1-24d826e2e357")
 	)
 	(hierarchical_label "SD_DET"
 		(shape output)
