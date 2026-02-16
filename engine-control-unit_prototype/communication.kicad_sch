@@ -8877,7 +8877,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "I2C_CM"
+		(property "Value" "I2C_PM"
 			(at 120.65 88.9001 0)
 			(effects
 				(font
@@ -10348,7 +10348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 114.3 81.2799 0)
 			(effects
 				(font
@@ -13397,7 +13397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 104.14 81.2799 0)
 			(effects
 				(font
