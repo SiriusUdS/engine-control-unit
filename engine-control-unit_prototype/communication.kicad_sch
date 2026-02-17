@@ -7639,7 +7639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 219.71 100.33 0)
 			(effects
 				(font
@@ -8209,7 +8209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 99.06 31.75 0)
 			(effects
 				(font
@@ -8691,7 +8691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 59.69 36.83 0)
 			(effects
 				(font
@@ -9176,7 +9176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 50.8 77.47 0)
 			(effects
 				(font
@@ -9260,7 +9260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 184.15 129.54 0)
 			(effects
 				(font
@@ -11094,7 +11094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 205.74 43.18 0)
 			(effects
 				(font
@@ -11620,7 +11620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 212.09 69.85 0)
 			(effects
 				(font
@@ -12070,7 +12070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V3"
+		(property "Value" "VDD_3V6"
 			(at 224.79 25.4 0)
 			(effects
 				(font
