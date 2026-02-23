@@ -7299,7 +7299,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 154.94 90.1699 0)
 			(effects
 				(font
@@ -7308,7 +7308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 159.7152 85.09 0)
 			(effects
 				(font
@@ -7378,7 +7378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 98.0948 38.1 0)
 			(effects
 				(font
@@ -7449,7 +7449,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 141.9352 64.77 0)
 			(effects
 				(font
@@ -7639,7 +7639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 219.71 100.33 0)
 			(effects
 				(font
@@ -8062,7 +8062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 59.69 73.66 0)
 			(effects
 				(font
@@ -8149,7 +8149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 41.91 43.4848 0)
 			(effects
 				(font
@@ -8209,7 +8209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 99.06 31.75 0)
 			(effects
 				(font
@@ -8691,7 +8691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 59.69 36.83 0)
 			(effects
 				(font
@@ -8783,7 +8783,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical"
 			(at 245.11 99.06 0)
 			(effects
 				(font
@@ -9014,7 +9014,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 130.5052 64.77 0)
 			(effects
 				(font
@@ -9176,7 +9176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 50.8 77.47 0)
 			(effects
 				(font
@@ -9260,7 +9260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 184.15 129.54 0)
 			(effects
 				(font
@@ -9477,7 +9477,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 22.86 180.3399 0)
 			(effects
 				(font
@@ -9486,7 +9486,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 27.6352 175.26 0)
 			(effects
 				(font
@@ -9625,7 +9625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 259.08 133.35 0)
 			(effects
 				(font
@@ -9699,7 +9699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 72.39 42.2148 0)
 			(effects
 				(font
@@ -9768,7 +9768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 236.22 133.35 0)
 			(effects
 				(font
@@ -9835,7 +9835,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "0u1"
 			(at 125.73 143.5099 0)
 			(effects
 				(font
@@ -9844,7 +9844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 121.92 124.46 0)
 			(effects
 				(font
@@ -10491,7 +10491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 242.57 49.53 0)
 			(effects
 				(font
@@ -11094,7 +11094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 205.74 43.18 0)
 			(effects
 				(font
@@ -11399,7 +11399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Dsub:DSUB-9_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm"
 			(at 158.75 64.77 0)
 			(effects
 				(font
@@ -11620,7 +11620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 212.09 69.85 0)
 			(effects
 				(font
@@ -11933,7 +11933,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 90.17 86.3599 0)
 			(effects
 				(font
@@ -11942,7 +11942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 94.9452 81.28 0)
 			(effects
 				(font
@@ -12070,7 +12070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 224.79 25.4 0)
 			(effects
 				(font

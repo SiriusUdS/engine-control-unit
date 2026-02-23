@@ -4268,7 +4268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 139.954 86.614 90)
 			(effects
 				(font
@@ -4329,7 +4329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 38.1 38.1 0)
 			(effects
 				(font
@@ -4688,7 +4688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 218.44 60.9599 0)
 			(effects
 				(font
@@ -4697,7 +4697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 221.2848 63.5 0)
 			(effects
 				(font
@@ -4757,7 +4757,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 87.63 165.1 90)
 			(effects
 				(font
@@ -4765,7 +4765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 83.82 171.1452 0)
 			(effects
 				(font
@@ -5166,7 +5166,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 243.84 60.9599 0)
 			(effects
 				(font
@@ -5175,7 +5175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 246.6848 63.5 0)
 			(effects
 				(font
@@ -5374,7 +5374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 93.98 118.11 0)
 			(effects
 				(font
@@ -5732,7 +5732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 76.2 163.83 0)
 			(effects
 				(font
@@ -5886,7 +5886,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 256.54 60.9599 0)
 			(effects
 				(font
@@ -5895,7 +5895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 259.3848 63.5 0)
 			(effects
 				(font
@@ -6165,7 +6165,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 231.14 60.9599 0)
 			(effects
 				(font
@@ -6174,7 +6174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 233.9848 63.5 0)
 			(effects
 				(font
@@ -6534,7 +6534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 273.05 46.99 0)
 			(effects
 				(font
@@ -6873,7 +6873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 215.9 76.2 0)
 			(effects
 				(font
@@ -7233,7 +7233,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 146.05 166.3699 0)
 			(effects
 				(font
@@ -7242,7 +7242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 143.2052 168.91 0)
 			(effects
 				(font

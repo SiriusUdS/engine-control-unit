@@ -870,113 +870,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:TestPoint"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at 0 6.858 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TestPoint_0_1"
-				(circle
-					(center 0 3.302)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TestPoint_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1289,7 +1182,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:Jumper_3_Bridged12"
+		(symbol "Jumper:SolderJumper_3_Bridged12"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1305,7 +1198,7 @@
 					)
 				)
 			)
-			(property "Value" "Jumper_3_Bridged12"
+			(property "Value" "SolderJumper_3_Bridged12"
 				(at 0 2.794 0)
 				(effects
 					(font
@@ -1331,7 +1224,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
+			(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1340,7 +1233,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "Jumper SPDT"
+			(property "ki_keywords" "Solder Jumper SPDT"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1349,7 +1242,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Jumper* TestPoint*3Pads* TestPoint*Bridge*"
+			(property "ki_fp_filters" "SolderJumper*Bridged12*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1358,46 +1251,11 @@
 					(hide yes)
 				)
 			)
-			(symbol "Jumper_3_Bridged12_0_0"
-				(circle
-					(center -3.302 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
+			(symbol "SolderJumper_3_Bridged12_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.032 0)
 					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 3.302 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_3_Bridged12_0_1"
-				(arc
-					(start -3.048 0.508)
-					(mid -1.651 0.9912)
-					(end -0.254 0.508)
 					(stroke
 						(width 0)
 						(type default)
@@ -1408,7 +1266,113 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -1.27) (xy 0 -0.508)
+						(xy -1.016 1.016) (xy -1.016 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.016 0.508)
+					(end -0.508 -0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -1.016 -1.016)
+					(mid -2.0276 0)
+					(end -1.016 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.016 -1.016)
+					(mid -2.0276 0)
+					(end -1.016 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -0.508 1.016)
+					(end 0.508 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.016 1.016)
+					(mid 2.0276 0)
+					(end 1.016 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.016 1.016)
+					(mid 2.0276 0)
+					(end 1.016 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 1.016) (xy 1.016 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.032 0)
 					)
 					(stroke
 						(width 0)
@@ -1419,9 +1383,9 @@
 					)
 				)
 			)
-			(symbol "Jumper_3_Bridged12_1_1"
+			(symbol "SolderJumper_3_Bridged12_1_1"
 				(pin passive line
-					(at -6.35 0 0)
+					(at -5.08 0 0)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -1457,7 +1421,7 @@
 					)
 				)
 				(pin passive line
-					(at 6.35 0 180)
+					(at 5.08 0 180)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -2530,12 +2494,6 @@
 		(uuid "3c018022-7a93-4a15-a457-f1482589a66f")
 	)
 	(junction
-		(at 132.08 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3de06d0b-200b-4e4f-9a66-07a0241bf755")
-	)
-	(junction
 		(at 190.5 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2640,16 +2598,6 @@
 			(type default)
 		)
 		(uuid "019fabb0-2602-46fc-9782-f1533fe57eed")
-	)
-	(wire
-		(pts
-			(xy 132.08 81.28) (xy 132.08 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02b08add-dd0a-42b5-a640-c45fe56a2012")
 	)
 	(wire
 		(pts
@@ -2913,7 +2861,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 63.5) (xy 128.27 63.5)
+			(xy 125.73 63.5) (xy 129.54 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3373,7 +3321,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 83.82) (xy 132.08 83.82)
+			(xy 125.73 83.82) (xy 137.16 83.82)
 		)
 		(stroke
 			(width 0)
@@ -3783,6 +3731,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 63.5) (xy 143.51 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b491d4f5-33a3-4f39-92e1-5c930e037306")
+	)
+	(wire
+		(pts
 			(xy 205.74 102.87) (xy 205.74 115.57)
 		)
 		(stroke
@@ -3790,16 +3748,6 @@
 			(type default)
 		)
 		(uuid "b5dee02c-a765-4089-8792-8a71c308e5c2")
-	)
-	(wire
-		(pts
-			(xy 143.51 63.5) (xy 140.97 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b98e6abe-c2b8-4765-b38a-015b93de2edb")
 	)
 	(wire
 		(pts
@@ -4120,16 +4068,6 @@
 			(type default)
 		)
 		(uuid "f9f67f3a-7532-4403-a2c1-dc2924107f03")
-	)
-	(wire
-		(pts
-			(xy 132.08 83.82) (xy 137.16 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc3dcb83-4f90-423e-9881-7a7abe16e2fc")
 	)
 	(wire
 		(pts
@@ -4609,7 +4547,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 72.6948 93.98 0)
 			(effects
 				(font
@@ -4678,7 +4616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 120.65 63.5 0)
 			(effects
 				(font
@@ -4978,7 +4916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 33.02 58.42 0)
 			(effects
 				(font
@@ -5161,7 +5099,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2d5a5764-feac-42b7-842f-790a96bdb28a")
 		(property "Reference" "C81"
 			(at 152.4 88.9 0)
@@ -5309,7 +5247,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 186.69 64.7699 0)
 			(effects
 				(font
@@ -5586,7 +5524,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 72.6948 80.01 0)
 			(effects
 				(font
@@ -5989,7 +5927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 236.22 70.8152 0)
 			(effects
 				(font
@@ -6059,7 +5997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 31.75 139.7 0)
 			(effects
 				(font
@@ -6253,73 +6191,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 132.08 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76577a37-b3f0-4e63-959f-fa3f4e73f1a0")
-		(property "Reference" "TP1"
-			(at 134.62 76.7079 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PT1"
-			(at 134.62 79.2479 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 137.16 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 132.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e38a7ed5-9d4c-4533-acca-3636a4c38c15")
-		)
-		(instances
-			(project "engine-control-unit_prototype"
-				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/934d114b-d4b5-4669-b5e9-a82bebed1d7a"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 241.3 120.65 0)
 		(unit 1)
@@ -6488,7 +6359,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 186.69 87.6299 0)
 			(effects
 				(font
@@ -6748,78 +6619,6 @@
 			(project "engine-control-unit_prototype"
 				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/934d114b-d4b5-4669-b5e9-a82bebed1d7a"
 					(reference "#PWR0144")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_3_Bridged12")
-		(at 134.62 63.5 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "881aadc6-1a25-4f85-bc8a-fb20a7902aca")
-		(property "Reference" "JP3"
-			(at 134.62 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PIN/GND"
-			(at 134.62 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 134.62 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
-			(at 134.62 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ec0182c2-7504-4bcf-ba73-34539e7a450f")
-		)
-		(pin "1"
-			(uuid "1e4e507e-a24a-4d16-94ef-399004dd0ced")
-		)
-		(pin "3"
-			(uuid "748159bf-5607-4210-a050-a9bf867e974a")
-		)
-		(instances
-			(project "engine-control-unit_prototype"
-				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/934d114b-d4b5-4669-b5e9-a82bebed1d7a"
-					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -7189,7 +6988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 31.75 82.55 0)
 			(effects
 				(font
@@ -7758,7 +7557,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 186.69 110.4899 0)
 			(effects
 				(font
@@ -7970,7 +7769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 73.66 139.7 0)
 			(effects
 				(font
@@ -8045,7 +7844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 72.6948 64.77 0)
 			(effects
 				(font
@@ -8115,7 +7914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 52.07 139.7 0)
 			(effects
 				(font
@@ -8320,7 +8119,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 186.69 133.3499 0)
 			(effects
 				(font
@@ -8456,7 +8255,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0u1"
 			(at 106.68 60.96 90)
 			(effects
 				(font
@@ -8464,7 +8263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 110.49 67.0052 0)
 			(effects
 				(font
@@ -8637,6 +8436,77 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_3_Bridged12")
+		(at 134.62 63.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "de516226-1d37-4f56-a404-da0186ed03c4")
+		(property "Reference" "JP3"
+			(at 130.556 67.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PIN / GND"
+			(at 134.62 60.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm"
+			(at 134.62 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
+			(at 134.62 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "39c02b52-75eb-46af-9f91-ded0c987c5bb")
+		)
+		(pin "2"
+			(uuid "2089b5bd-0ca8-43d3-832e-f00ad38a6410")
+		)
+		(pin "1"
+			(uuid "90d39729-24b3-4a8c-a4eb-e23855af32b5")
+		)
+		(instances
+			(project "engine-control-unit_prototype"
+				(path "/4da294f1-7505-49eb-91fe-5b5cfad6e8fb/934d114b-d4b5-4669-b5e9-a82bebed1d7a"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
 		(at 95.25 139.7 0)
 		(mirror y)
@@ -8664,7 +8534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 95.25 139.7 0)
 			(effects
 				(font
@@ -8880,7 +8750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_3V6"
+		(property "Value" "VDD_3V3"
 			(at 246.38 63.5 0)
 			(effects
 				(font
@@ -8954,7 +8824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 259.08 70.8152 0)
 			(effects
 				(font
