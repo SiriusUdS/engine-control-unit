@@ -1,0 +1,131 @@
+(footprint "Wago 2060"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "50d99e29-e7ee-4d15-af57-3f76497b053d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Wago 2060"
+		(at 0 4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "99636fcc-20f2-44e6-9844-bcb5e29209b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62c8f5ac-dbc5-42ca-bd7b-a3c4f084df7a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "039808ef-ffd2-413a-a531-8e5ba6818483")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -3.5 -12.5)
+		(end 3.5 2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "daa1155f-890b-44bc-8ba3-ce0b9770cf67")
+	)
+	(fp_rect
+		(start -3.6 -12.6)
+		(end 3.6 2.1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "8662661b-a12c-4ba8-91b7-9bee8beedb73")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1224add7-8777-4d82-8cee-15d6a365e7ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2 -9.25 180)
+		(size 2 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "1d8f0445-609e-44f2-9213-ce780e8e329c")
+	)
+	(pad "1" smd roundrect
+		(at -2 0 180)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "18b3b9a6-b554-40ac-93a4-3630dbd62ffa")
+	)
+	(pad "2" smd roundrect
+		(at 2 -9.25 180)
+		(size 2 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f1f615ad-1f0c-413c-920e-7ec91f27263c")
+	)
+	(pad "2" smd roundrect
+		(at 2 0 180)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "ed6a66ef-4f84-4915-a0e4-205d0543294a")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Librairies/3D/2060-452_998-404.STEP"
+		(offset
+			(xyz 0 5.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

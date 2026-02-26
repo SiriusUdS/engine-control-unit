@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ECU_LIB")(type "KiCad")(uri "${KIPRJMOD}/ECU_LIB/ECU_LIB.kicad_sym")(options "")(descr ""))
+  (lib (name "FSU_LIB")(type "KiCad")(uri "${KIPRJMOD}/FSU_LIB/FSU_LIB.kicad_sym")(options "")(descr ""))
+)
