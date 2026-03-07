@@ -635,10 +635,6 @@
       "POWER"
     ],
     [
-      "468ec968-b06a-4fdd-9cf0-6f2c416e1eba",
-      "COMMUNICATION"
-    ],
-    [
       "3bb69677-03d8-4e4a-9419-fbdea1d6cb8d",
       "STORAGE"
     ],
@@ -649,6 +645,22 @@
     [
       "b1c03273-6499-41ff-b1a3-3c63c73b0d1a",
       "CONTROL"
+    ],
+    [
+      "4177b914-1168-492f-81dd-166518752e25",
+      "MCU"
+    ],
+    [
+      "05fed164-fc53-4315-ac83-7d4c14a587d9",
+      "CAN FD"
+    ],
+    [
+      "b0a688d6-3d42-4c98-b40c-5ba5475d72d4",
+      "USB"
+    ],
+    [
+      "5d1939fc-4258-444e-8e17-9be3de0e6c59",
+      "Accelero"
     ]
   ],
   "text_variables": {}

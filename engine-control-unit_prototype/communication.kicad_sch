@@ -9535,7 +9535,7 @@
 				)
 			)
 		)
-		(property "Value" "JTAG"
+		(property "Value" "SWD"
 			(at 213.36 144.78 0)
 			(effects
 				(font
