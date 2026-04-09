@@ -38818,89 +38818,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 659.13 265.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1ed307d0-515d-49f6-94cf-cca99f2bf73d")
-		(property "Reference" "#PWR079"
-			(at 659.13 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD_5V-A"
-			(at 659.13 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 659.13 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 659.13 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 659.13 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" ""
-			(at 659.13 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 659.13 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8725e6ce-5ee2-4896-801e-e3461f5ab6d3")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR079")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Power_Management:INA3221")
 		(at 344.17 238.76 0)
 		(mirror y)
@@ -45317,6 +45234,89 @@
 			(project "ECU_Geg_trust"
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 603.25 287.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "40740e5c-d6cb-4613-aca7-c0d1c92542ff")
+		(property "Reference" "#PWR073"
+			(at 603.25 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_10V-A"
+			(at 603.25 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 603.25 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 603.25 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 603.25 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 603.25 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 603.25 287.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "16092afa-d9af-42b2-8436-8b40f29e7553")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -52891,7 +52891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD_5V-A"
+		(property "Value" "VDD_10V-A"
 			(at 266.7 223.52 0)
 			(effects
 				(font
@@ -54809,6 +54809,89 @@
 			(project "ECU_Geg_trust"
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "C112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 655.32 300.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "66f22fe1-d4b4-4bd7-9bd0-fba1fba985f4")
+		(property "Reference" "#PWR076"
+			(at 655.32 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_10V-A"
+			(at 655.32 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 655.32 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 655.32 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 655.32 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 655.32 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 655.32 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "207d1672-775b-4c86-b3b0-7e3718aee8c7")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -57141,89 +57224,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 318.77 281.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6faf3cc5-42c9-4a94-aa26-06ea2b2e15a2")
-		(property "Reference" "#PWR0100"
-			(at 318.77 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD_5V-A"
-			(at 318.77 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 318.77 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 318.77 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 318.77 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" ""
-			(at 318.77 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 318.77 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb9ff1e3-87fe-4b6b-a54a-ec87e880b6f0")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR0100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 457.2 93.98 0)
 		(unit 1)
@@ -58517,71 +58517,6 @@
 			(project "ECU_Geg_trust"
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "R121")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 179.07 227.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "76ca8367-647a-4898-a7ed-6c4477e11047")
-		(property "Reference" "#PWR019"
-			(at 179.07 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "6V - A"
-			(at 179.07 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 179.07 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 179.07 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f3402550-4c71-455d-b660-8236240c4fea")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -61490,6 +61425,89 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 603.25 247.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "803b9b11-4b1d-4fef-9d9e-285ba203dbb1")
+		(property "Reference" "#PWR019"
+			(at 603.25 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_10V-A"
+			(at 603.25 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 603.25 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 603.25 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 603.25 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 603.25 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 603.25 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad704e7f-1894-4b7c-99de-6dcbea3e016f")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 500.38 190.5 0)
 		(unit 1)
@@ -61919,6 +61937,89 @@
 			(project "ECU_Geg_trust"
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 659.13 265.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82965d47-d056-49d0-9e7d-2dbca76bcaec")
+		(property "Reference" "#PWR079"
+			(at 659.13 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_10V-A"
+			(at 659.13 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 659.13 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 659.13 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 659.13 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 659.13 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 659.13 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "123ad474-77d2-48fd-842c-bbbf6144baab")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -66021,89 +66122,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 603.25 247.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "99eff3f4-8760-4a4e-bd05-ce4f09b08aaa")
-		(property "Reference" "#PWR0117"
-			(at 603.25 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD_5V-A"
-			(at 603.25 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 603.25 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 603.25 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 603.25 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" ""
-			(at 603.25 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 603.25 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "91f2ddb2-ccf7-4641-89a5-644b44d98517")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR0117")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 617.22 113.03 90)
 		(unit 1)
@@ -68768,89 +68786,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 603.25 287.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a6e62ec0-532b-4e3f-b6e0-6619ca34ef69")
-		(property "Reference" "#PWR073"
-			(at 603.25 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD_5V-A"
-			(at 603.25 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 603.25 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 603.25 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 603.25 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" ""
-			(at 603.25 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 603.25 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4aec38c3-f607-4128-a60c-5d15587211d4")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR073")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 466.09 101.6 0)
 		(unit 1)
@@ -70089,6 +70024,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+BATT")
+		(at 179.07 227.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0008bdb-7319-4043-a64d-59fba1c2f934")
+		(property "Reference" "#PWR017"
+			(at 179.07 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "11V - A"
+			(at 179.07 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 179.07 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa5fe381-a7a0-4ee5-a6da-28979e8703a7")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 181.61 247.65 0)
 		(unit 1)
@@ -71079,6 +71079,71 @@
 			(project "ECU_Geg_trust"
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 179.07 281.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b45a94c1-d2e7-4fcc-bf59-68a9385309e6")
+		(property "Reference" "#PWR07"
+			(at 179.07 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "11V - A"
+			(at 179.07 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 179.07 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "41d48b74-6138-44e1-b80a-a5f7202f37f5")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -73485,89 +73550,6 @@
 			(project "ECU_Geg_trust"
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "C51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 655.32 300.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c109e775-2a61-495b-b383-c4a32792c878")
-		(property "Reference" "#PWR076"
-			(at 655.32 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDD_5V-A"
-			(at 655.32 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 655.32 300.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 655.32 300.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 655.32 300.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" ""
-			(at 655.32 300.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 655.32 300.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "670e8622-6863-4210-a19b-764cd961964b")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -76246,7 +76228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "6V - A"
+		(property "Value" "11V - A"
 			(at 167.64 223.52 0)
 			(effects
 				(font
@@ -82574,71 +82556,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 179.07 281.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed220cee-a96d-4896-a2fb-6ed0cd1e7ffa")
-		(property "Reference" "#PWR07"
-			(at 179.07 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "6V - A"
-			(at 179.07 278.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 179.07 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 179.07 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b9526ca1-689b-4cb8-ac26-009f260c3d0b")
-		)
-		(instances
-			(project "ECU_Geg_trust"
-				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 800.1 49.53 0)
 		(unit 1)
@@ -84058,6 +83975,89 @@
 				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
 					(reference "U9")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 318.77 281.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1a3dbdd-1882-4641-be5d-5fe53b6b157b")
+		(property "Reference" "#PWR0100"
+			(at 318.77 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD_10V-A"
+			(at 318.77 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 318.77 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 318.77 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 318.77 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 318.77 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 318.77 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42b9ce09-b452-4109-afd5-3fe62a3ffc90")
+		)
+		(instances
+			(project "ECU_Geg_trust"
+				(path "/edced154-f817-4a72-8c20-ebbec3de73b3"
+					(reference "#PWR0100")
+					(unit 1)
 				)
 			)
 		)
