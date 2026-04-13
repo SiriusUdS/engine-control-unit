@@ -703,6 +703,18 @@
           "label": "Digi",
           "name": "Digi",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "JLCP",
+          "name": "JLCP",
+          "show": true
         }
       ],
       "filter_string": "",
