@@ -60,24 +60,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|115311651|131451418|0669b468-ac38-4356-8f31-e9a2b4041e00|6aab4748-0256-4dd0-bd17-9c1951e65359",
-          ""
-        ],
-        [
-          "hole_clearance|115311651|131451418|2f47190d-af17-4050-872a-8d392b59c9c8|6aab4748-0256-4dd0-bd17-9c1951e65359",
-          ""
-        ],
-        [
-          "hole_clearance|116276414|125428193|5e3de598-895d-4bb5-acd8-46b61a205738|57c1e2a6-bea4-4509-892f-e5e1f6b61373",
-          ""
-        ],
-        [
-          "hole_clearance|116276414|125428193|f26df3ec-f128-4827-8f01-d21e5af4849d|57c1e2a6-bea4-4509-892f-e5e1f6b61373",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -825,7 +808,7 @@
         "uuid": "edced154-f817-4a72-8c20-ebbec3de73b3"
       }
     ],
-    "used_designators": "J6-7,J9,R73-78,R81-82,R90,R140,C38,C74-79,#PWR46,#PWR63,#PWR65,#PWR71,#PWR82,#PWR88,#PWR129,U5",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

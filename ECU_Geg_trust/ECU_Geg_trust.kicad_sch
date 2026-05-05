@@ -37540,7 +37540,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 63.5 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -38931,7 +38931,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 74.93 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -44477,7 +44477,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 38.1 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -44915,7 +44915,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C580684 vr ps sur"
+		(property "JLCP" "C684115"
 			(at 93.98 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -47765,7 +47765,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 238.76 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -49352,7 +49352,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C580684 vr ps sur"
+		(property "JLCP" "C684115"
 			(at 232.41 341.63 0)
 			(hide yes)
 			(show_name no)
@@ -53392,7 +53392,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5uH"
+		(property "Value" "4u7"
 			(at 232.41 326.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53446,7 +53446,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C2936659 ps sur "
+		(property "JLCP" "C882054"
 			(at 232.41 328.93 90)
 			(hide yes)
 			(show_name no)
@@ -57761,7 +57761,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 226.06 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -58377,7 +58377,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C580684 vr ps sur"
+		(property "JLCP" "C684115"
 			(at 88.9 341.63 0)
 			(hide yes)
 			(show_name no)
@@ -61542,7 +61542,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C580011"
 			(at 217.17 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -64600,7 +64600,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C113041 ps sur"
+		(property "JLCP" "C177269"
 			(at 627.38 408.94 90)
 			(hide yes)
 			(show_name no)
@@ -69574,7 +69574,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 82.55 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -85373,7 +85373,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C580011"
 			(at 217.17 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -87887,6 +87887,17 @@
 				)
 			)
 		)
+		(property "JLCP" "C2685451"
+			(at 735.33 284.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "d3f205ea-f66e-49f3-b7f5-f68bdfcb17d1")
 		)
@@ -89238,7 +89249,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5uH"
+		(property "Value" "4u7"
 			(at 88.9 326.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -89292,7 +89303,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C2936659 ps sur "
+		(property "JLCP" "C882054"
 			(at 88.9 328.93 90)
 			(hide yes)
 			(show_name no)
@@ -93110,7 +93121,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 100.33 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -95465,7 +95476,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 95.25 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -121043,7 +121054,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 50.8 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -128888,7 +128899,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C113041 ps sur"
+		(property "JLCP" "C177269"
 			(at 627.38 393.7 90)
 			(hide yes)
 			(show_name no)
@@ -129135,7 +129146,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 87.63 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -130321,7 +130332,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5uH"
+		(property "Value" "4u7"
 			(at 93.98 207.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -130375,7 +130386,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C2936659 ps sur "
+		(property "JLCP" "C882054"
 			(at 93.98 209.55 90)
 			(hide yes)
 			(show_name no)
