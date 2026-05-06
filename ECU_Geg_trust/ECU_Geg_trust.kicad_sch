@@ -35324,7 +35324,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 64.262 433.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35445,7 +35445,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 63.5 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -36715,7 +36715,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 75.692 433.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36836,7 +36836,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 74.93 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -37220,7 +37220,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 125.73 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37341,7 +37341,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C22356624"
 			(at 123.19 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -39025,7 +39025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 304.546 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39146,7 +39146,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 306.07 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -40166,7 +40166,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C177329"
 			(at 78.74 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -41291,7 +41291,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100k"
 			(at 133.35 248.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41412,7 +41412,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C177329"
 			(at 130.81 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -42505,7 +42505,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 38.862 433.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42626,7 +42626,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 38.1 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -43984,7 +43984,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1590"
 			(at 721.36 260.35 90)
 			(hide yes)
 			(show_name no)
@@ -45111,7 +45111,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -45793,7 +45793,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 242.57 335.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45914,7 +45914,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 238.76 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -46928,7 +46928,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -48578,7 +48578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 342.646 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48699,7 +48699,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 344.17 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -50827,7 +50827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 317.246 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50948,7 +50948,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 318.77 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -52350,7 +52350,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C160977"
 			(at 440.69 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -53372,7 +53372,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C17168"
+		(property "JLCP" ""
 			(at 576.58 298.45 90)
 			(hide yes)
 			(show_name no)
@@ -53509,7 +53509,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CIN"
+		(property "Value" "100u"
 			(at 61.468 145.034 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53630,7 +53630,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C3344"
 			(at 60.96 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -53819,7 +53819,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3c835577-12f7-4466-8910-434e52401b80")
 		(property "Reference" "J10"
 			(at 30.734 146.812 0)
@@ -55511,7 +55511,7 @@
 				)
 			)
 		)
-		(property "JLCP" "??"
+		(property "JLCP" "C17591433"
 			(at 556.26 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -55643,7 +55643,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 222.25 335.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55764,7 +55764,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 226.06 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -56744,7 +56744,7 @@
 				)
 			)
 		)
-		(property "JLCP" "??"
+		(property "JLCP" "C1987509"
 			(at 604.52 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -59298,7 +59298,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C69847"
 			(at 217.17 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -64170,7 +64170,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -64307,7 +64307,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1592"
 			(at 758.19 412.75 0)
 			(hide yes)
 			(show_name no)
@@ -64741,7 +64741,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -66063,7 +66063,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C910763"
 			(at 448.31 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -67454,7 +67454,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 78.74 335.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67575,7 +67575,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 82.55 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -67761,7 +67761,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -68701,7 +68701,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100k"
 			(at 128.27 368.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68822,7 +68822,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C177329"
 			(at 125.73 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -71390,7 +71390,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -71566,7 +71566,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -71703,7 +71703,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1592"
 			(at 768.35 412.75 0)
 			(hide yes)
 			(show_name no)
@@ -80791,7 +80791,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -82989,7 +82989,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0 ohm"
+		(property "Value" "0"
 			(at 620.776 282.956 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83621,7 +83621,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C69847"
 			(at 217.17 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -87249,7 +87249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 368.046 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -87370,7 +87370,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 369.57 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -87880,10 +87880,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8b1c8579-d622-4e7e-a69f-1882cdec55bd")
 		(property "Reference" "J25"
@@ -89103,7 +89103,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -90251,7 +90251,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 104.14 215.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -90372,7 +90372,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 100.33 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -90727,7 +90727,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -90920,7 +90920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 291.846 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -91041,7 +91041,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 293.37 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -92851,7 +92851,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 99.06 335.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -92972,7 +92972,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 95.25 334.01 0)
 			(hide yes)
 			(show_name no)
@@ -93084,7 +93084,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "98fd2ce9-2573-419d-aefa-fbb415b60176")
 		(property "Reference" "J12"
@@ -93650,7 +93650,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C1592"
+		(property "JLCP" "C70225"
 			(at 767.08 373.38 0)
 			(hide yes)
 			(show_name no)
@@ -95152,7 +95152,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -95399,7 +95399,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -95559,7 +95559,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C79598"
 			(at 100.33 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -97185,7 +97185,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1713"
 			(at 175.26 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -98469,7 +98469,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10u"
 			(at 163.83 142.8749 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -98590,7 +98590,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C3344"
 			(at 160.02 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -99189,7 +99189,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -99205,7 +99205,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "230k"
 			(at 128.27 355.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -99698,7 +99698,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 329.946 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -99819,7 +99819,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 331.47 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -102135,7 +102135,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -102551,7 +102551,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 153.67 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -102672,7 +102672,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1592"
 			(at 149.86 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -103106,7 +103106,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -104451,7 +104451,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b8bbee49-418d-4602-a8ce-73120fb23edf")
 		(property "Reference" "J8"
@@ -106268,7 +106268,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C183152"
 			(at 93.98 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -107048,7 +107048,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -107633,7 +107633,7 @@
 				)
 			)
 		)
-		(property "Value" "RFLT"
+		(property "Value" "10k"
 			(at 126.746 116.586 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -107753,7 +107753,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C22369937"
 			(at 123.19 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -108580,7 +108580,7 @@
 				)
 			)
 		)
-		(property "JLCP" "C1592"
+		(property "JLCP" "C70225"
 			(at 764.54 387.35 0)
 			(hide yes)
 			(show_name no)
@@ -109778,7 +109778,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "100k"
 			(at 271.78 368.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109899,7 +109899,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C177329"
 			(at 269.24 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -112405,7 +112405,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -115084,7 +115084,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -115468,7 +115468,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C115046"
 			(at 422.91 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -116204,7 +116204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Cdv/dt"
+		(property "Value" "3n3"
 			(at 97.79 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116325,7 +116325,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1613"
 			(at 93.98 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -118753,7 +118753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 51.562 433.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -118874,7 +118874,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 50.8 430.53 0)
 			(hide yes)
 			(show_name no)
@@ -119119,7 +119119,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C1713"
 			(at 721.36 252.73 90)
 			(hide yes)
 			(show_name no)
@@ -119245,7 +119245,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400"
+		(property "Value" "1k"
 			(at 355.346 299.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -119366,7 +119366,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C11702"
 			(at 356.87 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -120293,7 +120293,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e90d777f-18fc-4773-817a-a53de32eeb31")
 		(property "Reference" "J1"
 			(at 30.48 140.462 0)
@@ -125919,7 +125919,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -126600,7 +126600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CAP"
+		(property "Value" "100n"
 			(at 83.82 215.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -126721,7 +126721,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C76997"
 			(at 87.63 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -126846,7 +126846,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "1M"
 			(at 133.35 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -126967,7 +126967,7 @@
 				)
 			)
 		)
-		(property "JLCP" ""
+		(property "JLCP" "C177344"
 			(at 130.81 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -127154,7 +127154,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -127170,7 +127170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "400k"
 			(at 271.78 355.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
