@@ -60,36 +60,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|172975000|143492047|9d47a258-f6a1-4cc0-86c2-801f6a80ba9d|f51965e0-a87e-44a9-8e5e-7437bb502fe4",
-          ""
-        ],
-        [
-          "courtyards_overlap|174335000|143475000|d1ccedf4-5fd7-4f11-8904-19ae8854ad52|f51965e0-a87e-44a9-8e5e-7437bb502fe4",
-          ""
-        ],
-        [
-          "lib_footprint_issues|123195000|119505000|66a17217-6d27-431d-ba0a-1e97a3977f75|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "starved_thermal|140232000|58632000|acb8bf52-ef9a-4f0d-b17d-6c958696a7aa|6166619e-16f4-472d-8b95-fae319e83edb|In2.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|182866124|68674629|acb8bf52-ef9a-4f0d-b17d-6c958696a7aa|90639e3b-e22e-4abb-b014-635d0a42ff11|In2.Cu",
-          ""
-        ],
-        [
-          "text_height|173800000|146500000|e65ede16-76e5-470b-8d97-ceec8fca3c4c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "via_dangling|120900000|108200000|1d18f3ab-6c18-4143-83e8-5b5ccfa59104|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
