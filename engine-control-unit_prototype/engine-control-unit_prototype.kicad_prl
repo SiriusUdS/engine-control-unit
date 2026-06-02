@@ -96,6 +96,7 @@
       13
     ],
     "col_widths": [
+<<<<<<< Updated upstream
       162,
       147,
       91,
@@ -110,6 +111,18 @@
       91,
       91,
       91
+=======
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      51
+>>>>>>> Stashed changes
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
